@@ -1,5 +1,5 @@
-# simple GA
-A simple Python implementation of a single objective genetic algorithm with 2 design paramaters (x and y). The objective is to minimise the function Z = x*sin(x)*y*cos(y).
+# simple_GA
+A simple Python implementation of a single objective genetic algorithm with 2 design parameters (x and y). The objective is to minimise the function Z = x*sin(x)*y*cos(y).
 
 ![plots](animation.gif)
 
