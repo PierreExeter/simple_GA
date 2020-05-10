@@ -1,6 +1,6 @@
 '''
 Implementation of a single objective genetic algorithm with 2 design paramaters (x and y)
-Minimise the function Z = x*sin(x)*y*cos(y)
+Minimise the function Z(x, y) = x*sin(x)*y*cos(y)
 def [A, Ao, best, best_o] = GA(nb_params, pop_size, nb_gen, p_mut) 
 '''
 
